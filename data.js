@@ -1,4 +1,4 @@
-var dogs=[
+var pets=[
 			{
 				"name":"Wishbone",
 				"breed":"American Bulldog cross",
